@@ -1,0 +1,1092 @@
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.043525
+accuracy_last     1.000000
+accuracy_last2    0.592875
+accuracy_last3    0.452318
+gs                0.894670
+gv                0.105330
+gv_turned_gs      0.884211
+gs_turned_gv      0.103333
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.035604
+accuracy_last     1.000000
+accuracy_last2    0.596313
+accuracy_last3    0.457635
+gs                0.940355
+gv                0.059645
+gv_turned_gs      0.910526
+gs_turned_gv      0.051667
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.038305
+accuracy_last     1.000000
+accuracy_last2    0.599237
+accuracy_last3    0.461505
+gs                0.942893
+gv                0.057107
+gv_turned_gs      0.947368
+gs_turned_gv      0.060000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.038574
+accuracy_last     1.000000
+accuracy_last2    0.603185
+accuracy_last3    0.469217
+gs                0.942893
+gv                0.057107
+gv_turned_gs      0.931579
+gs_turned_gv      0.055000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.042298
+accuracy_last     1.000000
+accuracy_last2    0.593253
+accuracy_last3    0.453111
+gs                0.951777
+gv                0.048223
+gv_turned_gs      0.926316
+gs_turned_gv      0.041667
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.031594
+accuracy_last     1.000000
+accuracy_last2    0.591227
+accuracy_last3    0.450877
+gs                0.946701
+gv                0.053299
+gv_turned_gs      0.942105
+gs_turned_gv      0.053333
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.029796
+accuracy_last     1.000000
+accuracy_last2    0.591083
+accuracy_last3    0.449650
+gs                0.932741
+gv                0.067259
+gv_turned_gs      0.915789
+gs_turned_gv      0.063333
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward           -0.004013
+accuracy_last     1.000000
+accuracy_last2    0.593393
+accuracy_last3    0.446141
+gs                0.897078
+gv                0.102922
+gv_turned_gs      0.936842
+gs_turned_gv      0.116667
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward           -0.031461
+accuracy_last     1.000000
+accuracy_last2    0.590090
+accuracy_last3    0.442299
+gs                0.949807
+gv                0.050193
+gv_turned_gs      0.915789
+gs_turned_gv      0.043333
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward           -0.008261
+accuracy_last     1.000000
+accuracy_last2    0.584646
+accuracy_last3    0.476378
+gs                0.964567
+gv                0.035433
+gv_turned_gs      0.510526
+gs_turned_gv      0.003333
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.099979
+accuracy_last     1.000000
+accuracy_last2    0.567568
+accuracy_last3    0.396396
+gs                0.990991
+gv                0.009009
+gv_turned_gs      0.268421
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.192812
+accuracy_last     1.000000
+accuracy_last2    0.500000
+accuracy_last3    0.347826
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.068421
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.289057
+accuracy_last     1.000000
+accuracy_last2    0.625000
+accuracy_last3    0.416667
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.015789
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.263205
+accuracy_last     1.000000
+accuracy_last2    0.500000
+accuracy_last3    0.333333
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.005263
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.033822
+accuracy_last     1.000000
+accuracy_last2    0.598345
+accuracy_last3    0.464758
+gs                0.946701
+gv                0.053299
+gv_turned_gs      0.947368
+gs_turned_gv      0.055000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward           -0.022838
+accuracy_last     1.000000
+accuracy_last2    0.608005
+accuracy_last3    0.461604
+gs                0.867853
+gv                0.132147
+gv_turned_gs      0.873684
+gs_turned_gv      0.135000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward           -0.033498
+accuracy_last     1.000000
+accuracy_last2    0.601030
+accuracy_last3    0.448734
+gs                0.921493
+gv                0.078507
+gv_turned_gs      0.884211
+gs_turned_gv      0.070000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward           -0.006473
+accuracy_last     1.000000
+accuracy_last2    0.590551
+accuracy_last3    0.490814
+gs                0.956693
+gv                0.043307
+gv_turned_gs      0.510526
+gs_turned_gv      0.006667
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.096821
+accuracy_last     1.000000
+accuracy_last2    0.590090
+accuracy_last3    0.426426
+gs                0.981982
+gv                0.018018
+gv_turned_gs      0.273684
+gs_turned_gv      0.003333
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.217024
+accuracy_last     1.000000
+accuracy_last2    0.543478
+accuracy_last3    0.376812
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.068421
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.275148
+accuracy_last     1.000000
+accuracy_last2    0.562500
+accuracy_last3    0.375000
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.015789
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.290921
+accuracy_last     1.000000
+accuracy_last2    0.666667
+accuracy_last3    0.444444
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.005263
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.033769
+accuracy_last     1.000000
+accuracy_last2    0.583969
+accuracy_last3    0.447690
+gs                0.950508
+gv                0.049492
+gv_turned_gs      0.957895
+gs_turned_gv      0.053333
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward           -0.000485
+accuracy_last     1.000000
+accuracy_last2    0.604828
+accuracy_last3    0.451613
+gs                0.890724
+gv                0.109276
+gv_turned_gs      0.905263
+gs_turned_gv      0.115000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward           -0.023828
+accuracy_last     1.000000
+accuracy_last2    0.607465
+accuracy_last3    0.461175
+gs                0.956242
+gv                0.043758
+gv_turned_gs      0.947368
+gs_turned_gv      0.045000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward           -0.012684
+accuracy_last     1.000000
+accuracy_last2    0.584646
+accuracy_last3    0.472441
+gs                0.944882
+gv                0.055118
+gv_turned_gs      0.515789
+gs_turned_gv      0.013333
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.125729
+accuracy_last     1.000000
+accuracy_last2    0.608108
+accuracy_last3    0.423423
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.273684
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.187675
+accuracy_last     1.000000
+accuracy_last2    0.630435
+accuracy_last3    0.463768
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.068421
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.037615
+accuracy_last     1.000000
+accuracy_last2    0.606620
+accuracy_last3    0.469917
+gs                0.932741
+gv                0.067259
+gv_turned_gs      0.910526
+gs_turned_gv      0.061667
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.025390
+accuracy_last     1.000000
+accuracy_last2    0.589433
+accuracy_last3    0.449847
+gs                0.934010
+gv                0.065990
+gv_turned_gs      0.894737
+gs_turned_gv      0.055000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.021459
+accuracy_last     1.000000
+accuracy_last2    0.584498
+accuracy_last3    0.447013
+gs                0.942893
+gv                0.057107
+gv_turned_gs      0.957895
+gs_turned_gv      0.063333
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.033963
+accuracy_last     1.000000
+accuracy_last2    0.594148
+accuracy_last3    0.456025
+gs                0.944162
+gv                0.055838
+gv_turned_gs      0.957895
+gs_turned_gv      0.061667
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.041094
+accuracy_last     1.000000
+accuracy_last2    0.604577
+accuracy_last3    0.473753
+gs                0.939086
+gv                0.060914
+gv_turned_gs      0.926316
+gs_turned_gv      0.058333
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.029316
+accuracy_last     1.000000
+accuracy_last2    0.595162
+accuracy_last3    0.454187
+gs                0.946701
+gv                0.053299
+gv_turned_gs      0.947368
+gs_turned_gv      0.055000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.030340
+accuracy_last     1.000000
+accuracy_last2    0.580420
+accuracy_last3    0.441972
+gs                0.956853
+gv                0.043147
+gv_turned_gs      0.968421
+gs_turned_gv      0.048333
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.030600
+accuracy_last     1.000000
+accuracy_last2    0.589581
+accuracy_last3    0.452049
+gs                0.939086
+gv                0.060914
+gv_turned_gs      0.942105
+gs_turned_gv      0.063333
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.029564
+accuracy_last     1.000000
+accuracy_last2    0.591989
+accuracy_last3    0.466970
+gs                0.938190
+gv                0.061810
+gv_turned_gs      0.944444
+gs_turned_gv      0.064112
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward           -0.033199
+accuracy_last     1.000000
+accuracy_last2    0.584315
+accuracy_last3    0.503684
+gs                0.911635
+gv                0.088365
+gv_turned_gs      0.908517
+gs_turned_gv      0.085399
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.021744
+accuracy_last     1.000000
+accuracy_last2    0.590583
+accuracy_last3    0.464452
+gs                0.932947
+gv                0.067053
+gv_turned_gs      0.945455
+gs_turned_gv      0.071700
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward           -0.037486
+accuracy_last     1.000000
+accuracy_last2    0.575479
+accuracy_last3    0.502700
+gs                0.905744
+gv                0.094256
+gv_turned_gs      0.919558
+gs_turned_gv      0.106061
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.007861
+accuracy_last     1.000000
+accuracy_last2    0.585600
+accuracy_last3    0.447467
+gs                0.988800
+gv                0.011200
+gv_turned_gs      0.988796
+gs_turned_gv      0.014815
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.086629
+accuracy_last     1.000000
+accuracy_last2    0.595785
+accuracy_last3    0.480204
+gs                0.996169
+gv                0.003831
+gv_turned_gs      0.982857
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.022737
+accuracy_last     1.000000
+accuracy_last2    0.590583
+accuracy_last3    0.463968
+gs                0.940397
+gv                0.059603
+gv_turned_gs      0.948485
+gs_turned_gv      0.062595
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward           -0.034120
+accuracy_last     1.000000
+accuracy_last2    0.578792
+accuracy_last3    0.502087
+gs                0.911635
+gv                0.088365
+gv_turned_gs      0.914826
+gs_turned_gv      0.090909
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.003576
+accuracy_last     1.000000
+accuracy_last2    0.594400
+accuracy_last3    0.455467
+gs                0.985600
+gv                0.014400
+gv_turned_gs      0.983193
+gs_turned_gv      0.014815
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.095653
+accuracy_last     1.000000
+accuracy_last2    0.591954
+accuracy_last3    0.462324
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.988571
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.025164
+accuracy_last     1.000000
+accuracy_last2    0.586188
+accuracy_last3    0.459009
+gs                0.939570
+gv                0.060430
+gv_turned_gs      0.951515
+gs_turned_gv      0.064871
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward           -0.042053
+accuracy_last     1.000000
+accuracy_last2    0.572901
+accuracy_last3    0.500859
+gs                0.911635
+gv                0.088365
+gv_turned_gs      0.925868
+gs_turned_gv      0.100551
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.005622
+accuracy_last     1.000000
+accuracy_last2    0.590400
+accuracy_last3    0.466667
+gs                0.987200
+gv                0.012800
+gv_turned_gs      0.991597
+gs_turned_gv      0.022222
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.089878
+accuracy_last     1.000000
+accuracy_last2    0.591954
+accuracy_last3    0.475096
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.988571
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.023903
+accuracy_last     1.000000
+accuracy_last2    0.587131
+accuracy_last3    0.459216
+gs                0.937638
+gv                0.062362
+gv_turned_gs      0.938384
+gs_turned_gv      0.062595
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward           -0.030605
+accuracy_last     1.000000
+accuracy_last2    0.577320
+accuracy_last3    0.497053
+gs                0.927835
+gv                0.072165
+gv_turned_gs      0.933754
+gs_turned_gv      0.077135
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward           -0.000595
+accuracy_last     1.000000
+accuracy_last2    0.582400
+accuracy_last3    0.448000
+gs                0.976000
+gv                0.024000
+gv_turned_gs      0.974790
+gs_turned_gv      0.025926
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.085938
+accuracy_last     1.000000
+accuracy_last2    0.595785
+accuracy_last3    0.472542
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.988571
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.114748
+accuracy_last     1.000000
+accuracy_last2    0.596774
+accuracy_last3    0.456989
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.977778
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.192224
+accuracy_last     1.000000
+accuracy_last2    0.593023
+accuracy_last3    0.488372
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.967742
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.271311
+accuracy_last     1.000000
+accuracy_last2    0.583333
+accuracy_last3    0.472222
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.952381
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.269856
+accuracy_last     1.000000
+accuracy_last2    0.538462
+accuracy_last3    0.435897
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.846154
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.026218
+accuracy_last     1.000000
+accuracy_last2    0.590721
+accuracy_last3    0.465864
+gs                0.937914
+gv                0.062086
+gv_turned_gs      0.950505
+gs_turned_gv      0.066768
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.025573
+accuracy_last     1.000000
+accuracy_last2    0.587935
+accuracy_last3    0.460897
+gs                0.938466
+gv                0.061534
+gv_turned_gs      0.949495
+gs_turned_gv      0.065630
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward           -0.043820
+accuracy_last     1.000000
+accuracy_last2    0.579529
+accuracy_last3    0.500000
+gs                0.918999
+gv                0.081001
+gv_turned_gs      0.903785
+gs_turned_gv      0.067493
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.005017
+accuracy_last     1.000000
+accuracy_last2    0.596800
+accuracy_last3    0.465600
+gs                0.977600
+gv                0.022400
+gv_turned_gs      0.983193
+gs_turned_gv      0.033333
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.082413
+accuracy_last     1.000000
+accuracy_last2    0.595785
+accuracy_last3    0.469987
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.988571
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.121919
+accuracy_last     1.000000
+accuracy_last2    0.576613
+accuracy_last3    0.438172
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.977778
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.225734
+accuracy_last     1.000000
+accuracy_last2    0.534884
+accuracy_last3    0.410853
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.967742
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.270524
+accuracy_last     1.000000
+accuracy_last2    0.604167
+accuracy_last3    0.500000
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.952381
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.287901
+accuracy_last     1.000000
+accuracy_last2    0.576923
+accuracy_last3    0.487179
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.846154
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.295698
+accuracy_last     1.000000
+accuracy_last2    0.583333
+accuracy_last3    0.444444
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.714286
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.317990
+accuracy_last     1.000000
+accuracy_last2    0.500000
+accuracy_last3    0.333333
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.500000
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.031592
+accuracy_last     1.000000
+accuracy_last2    0.592102
+accuracy_last3    0.463723
+gs                0.946192
+gv                0.053808
+gv_turned_gs      0.951515
+gs_turned_gv      0.055766
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward           -0.026462
+accuracy_last     1.000000
+accuracy_last2    0.585420
+accuracy_last3    0.513746
+gs                0.916053
+gv                0.083947
+gv_turned_gs      0.927445
+gs_turned_gv      0.093664
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.001520
+accuracy_last     1.000000
+accuracy_last2    0.585600
+accuracy_last3    0.459733
+gs                0.982400
+gv                0.017600
+gv_turned_gs      0.991597
+gs_turned_gv      0.033333
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.085198
+accuracy_last     1.000000
+accuracy_last2    0.588123
+accuracy_last3    0.467433
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.988571
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.112639
+accuracy_last     1.000000
+accuracy_last2    0.584677
+accuracy_last3    0.440860
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.977778
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.238240
+accuracy_last     1.000000
+accuracy_last2    0.593023
+accuracy_last3    0.472868
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.967742
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.193779
+accuracy_last     1.000000
+accuracy_last2    0.541667
+accuracy_last3    0.444444
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.952381
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.228166
+accuracy_last     1.000000
+accuracy_last2    0.538462
+accuracy_last3    0.461538
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.846154
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.261057
+accuracy_last     1.000000
+accuracy_last2    0.500000
+accuracy_last3    0.333333
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.714286
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.320193
+accuracy_last     1.000000
+accuracy_last2    0.500000
+accuracy_last3    0.333333
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.500000
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.299568
+accuracy_last     1.000000
+accuracy_last2    0.500000
+accuracy_last3    0.333333
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.500000
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.299523
+accuracy_last     1.000000
+accuracy_last2    0.500000
+accuracy_last3    0.333333
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.500000
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.257585
+accuracy_last     1.000000
+accuracy_last2    0.500000
+accuracy_last3    0.333333
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.500000
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.357169
+accuracy_last     1.000000
+accuracy_last2    0.500000
+accuracy_last3    0.333333
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.500000
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.696312
+accuracy_last     1.000000
+accuracy_last2    1.000000
+accuracy_last3    1.000000
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.500000
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.224779
+accuracy_last     1.000000
+accuracy_last2    0.500000
+accuracy_last3    0.333333
+gs                1.000000
+gv                0.000000
+gv_turned_gs      0.500000
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.324222
+accuracy_last     0.500000
+accuracy_last2    0.250000
+accuracy_last3    0.166667
+gs                1.000000
+gv                0.000000
+gv_turned_gs      1.000000
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            1.993972
+accuracy_last     0.000000
+accuracy_last2    0.500000
+accuracy_last3    0.333333
+gs                1.000000
+gv                0.000000
+gv_turned_gs      1.000000
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.449145
+accuracy_last     0.500000
+accuracy_last2    0.500000
+accuracy_last3    0.333333
+gs                1.000000
+gv                0.000000
+gv_turned_gs      1.000000
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            1.994223
+accuracy_last     0.000000
+accuracy_last2    0.500000
+accuracy_last3    0.333333
+gs                1.000000
+gv                0.000000
+gv_turned_gs      1.000000
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            0.324101
+accuracy_last     0.500000
+accuracy_last2    0.250000
+accuracy_last3    0.166667
+gs                1.000000
+gv                0.000000
+gv_turned_gs      1.000000
+gs_turned_gv      0.000000
+dtype: float64
+helpdesk
+last_2_act_and_end_reward_finalzzz_dfg_pred
+episode           1.000000
+reward            1.993786
+accuracy_last     0.000000
+accuracy_last2    0.500000
+accuracy_last3    0.333333
+gs                1.000000
+gv                0.000000
+gv_turned_gs      1.000000
+gs_turned_gv      0.000000
+dtype: float64

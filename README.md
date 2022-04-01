@@ -12,11 +12,11 @@ We propose a novel sytem for Goal-oriented next best action recommendation in bu
 <br>
 In the diagram above, pre-processed event log is passed on to Deep Learning model(GAN LSTM) which is trained for KPI prediction. Reinforcement learning agent is given the KPI predictions of trained DL model, process model(DFG graph), event log and KPI goals. It recommends the next best action to be taken optimising various KPI goals.
 
-For more info: See [slide deck](https://ibm.box.com/s/7kdkefkd9dyrqxr7q8s05fhhmmze58q6)
  Repository Structure
 ```
 ├── src
 	├── rl_main.py                      	# run this for RL agent training and testing
+	├── rl_environment.py                   # contains code for Rl environment
 	├── dl_main.py 				# training and testing of DL model
 	├── timestamp_prediction.py		# file for timestamp prediction given prev log and current event
 	├── event_prediction.py			# file for next event prediction
@@ -33,9 +33,8 @@ For more info: See [slide deck](https://ibm.box.com/s/7kdkefkd9dyrqxr7q8s05fhhmm
 			├── xes2csv.py          # script to convert xes to csv format 
 		├── dataset_details.ipynb       # All important detials of various datasets summarised
 	├── RL_checkpoints			# Checkpoints of trained RL agent	
-	├── RL_logs				# Contrains logs for RL agent training
-	├── checkpoints 			# DL models checkpoints
-	├── experiments 			# selected experiments ipython notebooks
+	├── RL_logs				# Contrains logs for RL agent training(created during training)
+	├── checkpoints 			# DL models checkpoints(created during training)
 	├── dataset_div 			# custom train test split code 
 	├── utils.py 				# various utility functions
 	├── dqn_tensorforce.py 			# code for training DQN agent (large negative reward)

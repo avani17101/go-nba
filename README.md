@@ -2,7 +2,7 @@
 
 # Goal-oriented-next-best-activity-recommendations
 
-Code for our paper titled "Goal-Oriented Next Best Activity Recommendation using Reinforcement Learning"
+Code for our paper titled "Goal-Oriented Next Best Activity Recommendation using Reinforcement Learning" (under review in BPM-2022)
 
 ## Description
 We propose a novel sytem for Goal-oriented next best action recommendation in busincess processes using Reinforcement Learning.

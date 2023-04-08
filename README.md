@@ -1,12 +1,11 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) [![Build Status](https://travis.ibm.com/retail-supply-chain/template.svg?token=HNXFSFUuSxA3JD6yvZpF&branch=master)](https://travis.ibm.com/retail-supply-chain/template) [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
-# Goal-oriented-next-best-activity-recommendations
+# Reinforcement Learning based Goal-Oriented Next Best Action Recommendation for Business Processes
 
-Code for our paper titled "Goal-Oriented Next Best Activity Recommendation using Reinforcement Learning" (under review in KDD-2023)
-[Preprint link](https://www.researchgate.net/publication/360462271_Goal-Oriented_Next_Best_Activity_Recommendation_using_Reinforcement_Learning)
+Code for our paper titled "Reinforcement Learning based Goal-Oriented Next Best Action Recommendation for Business Processes" (under review in KDD-2023)
 
-## Description
-We propose a novel sytem for Goal-oriented next best action recommendation in busincess processes using Reinforcement Learning.
+## Abstract
+Event sequence recommendations from real-world event data such as enterprise system logs are used to recommend the actions that need to be taken for a business case, such as a loan application, to achieve a desirable outcome. Such recommendations intend to provide better service to customers by mitigating delays and unexpected outcomes. However, the recommended event sequences reflecting the execution of a business case need to conform to specific rules, regulations, or policies and meet the goal such as timeliness or an outcome. Existing next best action recommendation models that learn from past historical event sequence data can predict the future action but cannot provide guarantees of the prediction being conformant or meeting the goal. Hence, we propose a goal-oriented next best action and remaining sequence recommendation (suffix). Our proposed framework employs reinforcement learning to explore the sequence of actions based on the estimates likely to meet goal. We further address a real-world enterprise problem of multiple conflicting goals by introducing an additional reward function to balance and satisfy multiple goals. We demonstrate the effectiveness of our framework on an industrial data and four real-world datasets with different characteristics. The results demonstrates that our proposed framework outperforms by providing recommendations that are conformant and satisfying the goal as compared to the existing state-of-the-art next best action recommendation techniques
 <br>
 ![Diagram](./architecture_diagram.png)
 

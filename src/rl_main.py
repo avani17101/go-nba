@@ -2,7 +2,7 @@
 from argparse import ArgumentParser
 # from  RL_Agent.test_RL_Agent import test_RL
 from RL_Agent.train_RL_Agent import train_RL
-from rl_environment2 import  Custom_Environment
+from rl_environment import  Custom_Environment
 import utils
 import time
 
@@ -32,10 +32,10 @@ if opt.env_name == "traffic_ss":
     thresh = 607.04
 if opt.env_name == "bpi2019":
     thresh = 94.015
-
-action_mask = True
+    
 env = Custom_Environment(train_data, env_name = env_name, mode='verbose', mae=1.5, thresh=thresh, reward_type=reward_type)
 
+action_mask = True
 if exp_name ==  "no_action_mask_case":
     action_mask = False
 

@@ -2,7 +2,7 @@ import torch
 import numpy as np
 import pandas as pd
 from utils import *
-from rl_environment_base2 import Env_base
+from rl_environment_base import Env_base
 from dfg import check_dfg_compliance
 
 class Custom_Environment(Env_base):
@@ -18,7 +18,7 @@ class Custom_Environment(Env_base):
         if check_dfg_compliance(self.y_pred_list[-2] ,self.y_pred_list[-1], dset=self.env_name):
             self.compliance.append(1)
         else:
-            print("prev chosen {} chosen {}".format(self.prev_action,self.chosen_action ))
+#             print("prev chosen {} chosen {}".format(self.prev_action,self.chosen_action ))
             self.compliance.append(0)
 
 
@@ -111,7 +111,7 @@ class Custom_Environment(Env_base):
             if check_dfg_compliance(self.y_pred_list[-2] ,self.y_pred_list[-1], dset=self.env_name):
                 self.compliance.append(1)
             else:
-                print("prev chosen {} chosen {}".format(self.prev_action,self.chosen_action ))
+#                 print("prev chosen {} chosen {}".format(self.prev_action,self.chosen_action ))
                 self.compliance.append(0)
             # reward val for end of process
             if self.chosen_action == 0: #end of trace
